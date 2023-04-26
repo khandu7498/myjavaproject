@@ -1,6 +1,6 @@
 
 class Simple{  
     public static void main(String args[]){  
-     System.out.println("Hello babyjanu");  
+     System.out.println("Hello dipe");  
     }  
 }  
